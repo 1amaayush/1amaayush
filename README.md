@@ -1,4 +1,4 @@
-<img src="https://ko-fi.com/s/e553ad31b5" align="centre" style="width: 100%"/>
+<img src="https://storage.ko-fi.com/cdn/useruploads/display/a73190c5-1724-4fc7-988e-d141445646d5_spiaggiapreview.gif" align="centre" style="width: 100%"/>
 
 ### <div align="center">I'm Aayush, a 21 y.o Cyber Security student 👨‍💻</div>  
   
