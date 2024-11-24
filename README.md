@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/kawaii-tree-DIYVI7Iz4dmnu" align="centre" style="width: 100%"/>
+
 
 ### <div align="center">I'm Aayush, a 21 y.o Cyber Security student 👨‍💻</div>  
   
