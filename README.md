@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif?cid=6c09b952or74vxr1adn9az9cszmkkkmg9y3kqm6c0fksmssb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="left" style="width: 100%" />  
+<img src="https://media4.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.gif?cid=6c09b952or74vxr1adn9az9cszmkkkmg9y3kqm6c0fksmssb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="left" style="width: 10%" />  
   
 
 ### <div align="center">I'm Aayush, a 21 y.o Cyber Security student 👨‍💻</div>  
